@@ -1,5 +1,4 @@
 import { Component } from '@angular/core';
-
 import { products } from '../products';
 
 @Component({
@@ -19,7 +18,7 @@ export class ProductListComponent {
     window.alert('You will be notified when the product goes on sale');
   }
   
-
+}
 
 /*
 Copyright Google LLC. All Rights Reserved.
